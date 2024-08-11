@@ -1,0 +1,22 @@
+{
+  "name": "@amam1ya/koishi-plugin-sb6657",
+  "description": "玩机器弹幕烂梗生成器（数据来自 6657超级大爆 - sb6657.cn）",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "scripts": {},
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "devDependencies": {},
+  "peerDependencies": {
+    "koishi": "^4.17.11"
+  }
+}
